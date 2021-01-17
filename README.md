@@ -7,6 +7,9 @@ https://www.udemy.com/course/the-complete-python-programmer-bootcamp/
 
 A lot of things came together - finally learning python environment(could not install opencv otherwise in anaconda, but then could install R-studio as well), github, python 3.x vs Python 2.x refresh/update, and of course opencv basics.
 
+Here is a good picture to look at when you are getting ready to give up 😂
+https://www.explainxkcd.com/wiki/index.php/1987:_Python_Environment
+
 Extensive online consultation was used in completion of the project, with proper credits given in the code comments.
 Some of the algorythms are different compared to instructor's solution for example
 1) Edge detection parameters are more accurate
